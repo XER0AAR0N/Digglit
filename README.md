@@ -1,6 +1,6 @@
-﻿# Digglit (Unofficial)
+﻿# Digglit
 
-An **unofficial desktop client** for the news and social platform **Digg**.
+A **desktop client** for the news and social platform **Digg**.
 
 > ⚠️ This project is **not affiliated with, endorsed by, or sponsored by Digg**.
 
